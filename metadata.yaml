@@ -1,0 +1,27 @@
+_repo: Penna-merikarhu-ynna-muita-saaristolaisnovelleja_67181
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elenius, Emil
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '52409'
+    url: http://www.gutenberg.org/2009/agents/52409
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Elenius
+description: ''
+gutenberg_issued: '2022-01-16'
+identifiers:
+  gutenberg: '67181'
+language: fi
+pgterms:marc905: 20220101070123elenius
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :WSOY,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Penna merikarhu: ynnä muita saaristolaisnovelleja'
+url: http://www.gutenberg.org/ebooks/67181
